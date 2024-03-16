@@ -1,2 +1,2 @@
-http://127.0.0.1:5500/benz%201.png
+https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeiU1BBoRGPcLxwHSSJbMgWOjqSODHaZRTfgqs8PAw3A2ArBFH
 # auto-carmax
