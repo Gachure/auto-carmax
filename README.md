@@ -8,3 +8,10 @@ This wesite has been developed using
 *Index.html
 *Style.css
 *JavaScript
+
+### Requirements needed
+Bsic knowledge of HTML,CSS and JavaScript
+Visual Code
+
+#### Collaborate
+Email me at:victor.gachure@student.moringaschol.com
