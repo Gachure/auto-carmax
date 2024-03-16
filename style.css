@@ -1,0 +1,11 @@
+nav {
+    background-image: url('nav bar .png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-start;
+    padding: 1rem;
+    align-items: center;
+    width: 98%; 
+    height: 200px;
+  }
